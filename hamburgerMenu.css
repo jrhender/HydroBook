@@ -1,0 +1,28 @@
+.hamburger{
+  background:none;
+  position:relative;
+  float: left;
+  line-height:45px;
+  padding:5px 15px 0px 15px;
+  color: white;
+  border:0;
+  font-size:1.4em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+.cross{
+  background:none;
+  position:relative;
+  float: left;
+  padding:7px 15px 0px 15px;
+  color: white;
+  border:0;
+  font-size:3em;
+  line-height:65px;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}

@@ -1,0 +1,39 @@
+/*Base element styles*/
+html,body { height:100%; }
+
+h1, h2 {
+  font-family: 'Baloo Bhaina', cursive;
+}
+
+h1 {
+  font-size: 40px
+}
+
+/*Styles by semantic tag*/
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: #00a6d6;
+}
+
+aside {
+  background-color: #64a70b;
+  float: left;
+  height: 100%;
+}
+
+main {
+  float: left;
+  height: 100%
+}
+
+header h1 {
+  color: white;
+}
+
+aside h2 {
+  color: white;
+}
