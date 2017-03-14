@@ -12,6 +12,7 @@ h1 {
 /*Styles by semantic tag*/
 body {
   font-family: 'Open Sans', sans-serif;
+  margin: 0;
 }
 
 header {
@@ -23,15 +24,18 @@ aside {
   background-color: #64a70b;
   float: left;
   height: 100%;
+  padding: 10px;
 }
 
 main {
   float: left;
-  height: 100%
+  height: 100%;
+  margin: 10px;
 }
 
 header h1 {
   color: white;
+  margin: 0;
 }
 
 aside h2 {
