@@ -25,12 +25,15 @@ aside {
   float: left;
   height: 100%;
   padding: 10px;
+  width: 30%;
 }
 
 main {
   float: left;
   height: 100%;
   margin: 10px;
+  overflow-wrap: normal;
+  width: 70%;
 }
 
 header h1 {
@@ -41,3 +44,12 @@ header h1 {
 aside h2 {
   color: white;
 }
+
+main h2 {
+  color: #64a70b;
+}
+
+/*#pagecontent {
+  width: 1000px;
+  overflow: hidden;
+}*/
